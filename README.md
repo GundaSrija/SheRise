@@ -57,11 +57,7 @@ In many societies, women face unique challenges related to safety, education, an
 <img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo8.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Celebi07/kiya/blob/main/assets/screenshots/photo10.jpg" width="300px" height="600px" alt="Kiya Preview">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-## Demo Video
 
-https://github.com/Celebi07/kiya/blob/main/assets/screenshots/appVideo.mp4
-
-Checkout - https://youtu.be/2k8vg5LWDKc?si=2lk5qSyJ9HVXnysr
 
 ## Get Started 🚀
 
